@@ -120,7 +120,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9030210676129287533}
   m_Layer: 0
-  m_Name: HDEZ_JORGE
+  m_Name: ROOT_HDEZ_JORGE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
